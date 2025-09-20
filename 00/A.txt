@@ -1,3 +1,5 @@
 Apple
-ASICS
 ant
+amazon
+ASICS
+alt
